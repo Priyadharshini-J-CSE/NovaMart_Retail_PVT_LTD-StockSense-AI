@@ -1,0 +1,21 @@
+product_id,category,sub_category,brand,mrp,cost,shelf_life,supplier_id
+P101,Dairy,Milk,Aavin,60,52,3,SUP01
+P102,Dairy,Curd,Aavin,35,28,5,SUP01
+P103,DAIRY,Butter,MilkyFresh,75,61,30,SUP02
+P104,Dairy,Cheese,MilkyFresh,110,88,60,SUP02
+P201,Personal Care,Shampoo,GlowCare,120,79,730,SUP08
+P202,Personal Care,Soap,FreshGlow,45,30,900,SUP08
+P203,Personal Care,Toothpaste,DentPlus,95,68,720,SUP09
+P204,Personal Care,Face Wash,GlowCare,150,105,540,SUP08
+P301,Beverages,Soft Drink,FizzUp,50,31,180,SUP04
+P302,beverages,Juice,FruitMax,80,55,120,SUP04
+P303,Beverages,Energy Drink,PowerGo,110,72,240,SUP05
+P304,BEVERAGES,Water,PureDrop,25,15,365,SUP05
+P401,Snacks,Biscuits,Crispo,35,22,240,SUP06
+P402,Snacks,Chips,Crunchy,30,19,150,SUP06
+P403,Snacks,Cookies,Crispo,55,36,180,SUP06
+P404,Snacks,Namkeen,SpiceBite,65,42,120,SUP07
+P501,Household,Detergent,CleanPro,180,125,730,SUP10
+P502,Household,Dish Wash,CleanPro,95,64,540,SUP10
+P503,Household,Floor Cleaner,Sparkle,130,89,600,SUP11
+P504,Household,Tissue,SoftTouch,75,48,365,SUP11
